@@ -1,0 +1,10 @@
+{
+  "name": "sharp_node_ends_process",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "0.31.1",
+    "canvas": "2.10.1"
+  }
+}
